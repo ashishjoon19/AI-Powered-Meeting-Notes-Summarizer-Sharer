@@ -40,8 +40,8 @@ A full-stack AI-powered application that generates structured summaries from mee
 ### 1. Clone and Install
 
 ```bash
-git clone <your-repo-url>
-cd ai-meeting-summarizer
+git clone <https://github.com/ashishjoon19/AI-Powered-Meeting-Notes-Summarizer-Sharer>
+cd AI-Powered-Meeting-Notes-Summarizer-Sharer
 npm run install-all
 ```
 
@@ -251,4 +251,3 @@ For issues and questions:
 
 ---
 
-**Built with ❤️ using React, Node.js, and Groq AI**
