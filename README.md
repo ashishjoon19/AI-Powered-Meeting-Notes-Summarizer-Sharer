@@ -80,7 +80,7 @@ This will start both frontend (port 3000) and backend (port 5000).
 ## 🏗️ Project Structure
 
 ```
-ai-meeting-summarizer/
+AI-Powered-Meeting-Notes-Summarizer-Sharer/
 ├── client/                 # React frontend
 │   ├── public/
 │   ├── src/
